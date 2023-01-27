@@ -1,4 +1,4 @@
-        <div class="machine glider">
+       <div class="machine glider">
             <img src="images/875-AbbasIbnFirnas-FlightAttempt.jpeg">
             <h3>Abbas ibn Firnas 875 CE</h3>
             <p>Firnas, also known as Armen Firman, was an Andalusian polymath. He allegedly built a pair of wings and
