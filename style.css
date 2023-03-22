@@ -1,6 +1,9 @@
 /* Part 1 Exercise 5 
 
 */
+*{
+    border: solid 1px black;
+}
 
 html {
     height: 100%;
@@ -14,14 +17,18 @@ body {
     background-size: cover;
     line-height: 1.5rem;
     /* Part 1Exercise 1 */
-
-
+    font-family: 'Libre Franklin', sans-serif;
+    color:#664b3d;
+    text-align: center;
+   
     /* Part 1 Exercise 4 */
-
+     margin: 0;
 }
 
 /* Part 1 Exercise 2 */
-
+#machine{
+    color: #f4b482;
+}
 
 /* Part 1 Exercise 3 */
 
@@ -56,7 +63,7 @@ main {
     width: 90%;
     max-width: 1200px;
     /* Part 1 Exercise 9 */
-
+    margin: auto;
 
 }
 
@@ -65,14 +72,16 @@ main {
     background-color: #ece4d9;
     border: solid 4px #664b3d;
     /* Part 1 Exercise 7 */
-
+    margin: 0 1% 40px 1%;
     /* Part 1 Exercise 8 */
-
-
+    display: inline-block;
+    vertical-align: top;
 }
 
 /* Part 1 Exercise 8 */
-
+h3, p{
+    padding: 0 30px;
+}
 
 
 
